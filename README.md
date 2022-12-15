@@ -1,3 +1,5 @@
+HTTP1.1 vs HTTP2
+
 The Hypertext Transfer Protocol (HTTP) is the foundation of the web. It is a protocol that enables communication between clients and servers on the internet. HTTP is used to request and transmit data between web clients and servers.
 
 HTTP has undergone several versions since it was first introduced. The latest version is HTTP/2, which was standardized in 2015. HTTP/2 is the successor to HTTP/1.1, which was standardized in 1997.
