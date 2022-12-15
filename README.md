@@ -24,3 +24,22 @@ Another key feature of HTTP/2 is that it supports server push. This allows the s
 
 Conclusion
 In summary, HTTP/1.1 and HTTP/2 are different versions of the HTTP protocol. HTTP/1.1 is a simple, text-based protocol that uses a request-response model and establishes a new connection for each request. HTTP/2 is a binary, multiplexed protocol that supports server push and can improve performance by reducing the number of round trips between the client and server.
+
+
+
+objects and its internal representation in Javascript
+
+In JavaScript, objects are used to store and manipulate data. An object is a collection of properties, each of which has a name and a value. The value of a property can be any data type, including primitive types such as numbers and strings, as well as more complex types such as arrays and other objects.
+
+Objects are a fundamental concept in JavaScript, and they are used extensively in many different contexts. For example, objects are used to represent data in web applications, to define the behavior of classes in object-oriented programming, and to store configuration data and settings.
+
+In this blog post, we will take a closer look at how objects are represented internally in JavaScript.
+
+Object literals
+One of the simplest ways to create an object in JavaScript is using an object literal. An object literal is a comma-separated list of name-value pairs enclosed in curly braces
+
+Object internal representation
+When we create an object using an object literal, JavaScript internally creates an object with a hidden internal property called [[Prototype]]. This property points to a prototype object that contains the default properties and methods inherited by the object.
+
+Conclusion
+In conclusion, objects are an important concept in JavaScript. They are used to store and manipulate data, and they have a hidden internal representation that includes
