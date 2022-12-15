@@ -27,7 +27,7 @@ In summary, HTTP/1.1 and HTTP/2 are different versions of the HTTP protocol. HTT
 
 
 
-objects and its internal representation in Javascript
+**objects and its internal representation in Javascript**
 
 In JavaScript, objects are used to store and manipulate data. An object is a collection of properties, each of which has a name and a value. The value of a property can be any data type, including primitive types such as numbers and strings, as well as more complex types such as arrays and other objects.
 
